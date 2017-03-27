@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "sp-fx-list",
+    "framework": "none",
+    "version": "1.0.0",
+    "libraryId": "9d390b5a-0781-492e-9c73-9d67b96421b1"
+  }
+}
